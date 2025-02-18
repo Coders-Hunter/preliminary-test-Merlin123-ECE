@@ -1,12 +1,8 @@
-#include <stdio.h>
-
-void check_divisibility(int num) {
-    // Expected output is "TRUE" or "FALSE"
-}
-
+#include <stdio.h>  
 int main() {
     int num;
+    printf('Enter an interger:') 
     scanf("%d", &num);
-    check_divisibility(num);
+    check_divisibility of 5(%d,&num);
     return 0;
 }
